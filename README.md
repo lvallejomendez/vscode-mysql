@@ -1,7 +1,7 @@
 # Working with VSCode and MySQL
 Working from a terminal using command-line tools is very quick and can feel practical when performing certain tasks. However, using a powerful text editor like MySQL is useful when visualizing data and persisting queries accross sessions, databases, and database servers.
 
-This repository and its contents are closely related to the Scripting with Python and SQL for Data Engineering course on coursera. It will assume you are using the VSCode with MySQL container image which has defaults that these examples use, like host, port, and user credentials.
+This repository and its contents are closely related to the [Scripting with Python and SQL for Data Engineering course on coursera](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke) (week 4). It will assume you are using the VSCode with MySQL container image which has defaults that these examples use, like host, port, and user credentials.
 
 ## Connecting to MySQL
 
